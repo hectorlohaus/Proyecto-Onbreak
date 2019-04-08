@@ -9,7 +9,7 @@
     <Grid>
         <Menu HorizontalAlignment="Left" Height="39" VerticalAlignment="Top" Width="792">
             <MenuItem Header="Opciones" Height="39" Width="132" FontSize="18">
-                <MenuItem x:Name="AdmCli" Header="Administracion de Clientes" Height="39" Margin="10,0,-11,0" Click="Registro_Click" />
+                <MenuItem x:Name="AdmCli" Header="Administracion de Clientes" Height="39" Margin="0,0,-1,0" Click="Registro_Click" />
                 <MenuItem x:Name="LisCli" Header="Listado de Clientes" Click="MenuItem_Click" Margin="0,0,3,0"/>
                 <MenuItem x:Name="AdmCon" Header="Administración de Contratos" Margin="0,0,3,0"/>
                 <MenuItem x:Name="LisCon" Header="Listado de Contratos" HorizontalAlignment="Left" Width="321" Margin="0,0,-1,0"/>
