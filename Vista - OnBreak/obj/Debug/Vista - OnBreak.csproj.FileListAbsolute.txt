@@ -37,3 +37,5 @@ C:\Users\duoc\Downloads\OnBreak - Proyecto\Vista - OnBreak\bin\Debug\BibliotecaC
 C:\Users\duoc\Downloads\OnBreak - Proyecto\Vista - OnBreak\bin\Debug\BibliotecaModelo.pdb
 C:\Users\duoc\Desktop\OnBreak - Proyecto\Vista - OnBreak\bin\Debug\Vista - OnBreak.exe.config
 C:\Users\duoc\Desktop\OnBreak - Proyecto\Vista - OnBreak\obj\Debug\Vista - OnBreak.pdb
+C:\Users\Soul\Source\Repos\hectorlohaus\Proyecto-Onbreak\Vista - OnBreak\bin\Debug\Vista - OnBreak.exe.config
+C:\Users\Soul\Source\Repos\hectorlohaus\Proyecto-Onbreak\Vista - OnBreak\obj\Debug\Vista - OnBreak.pdb
