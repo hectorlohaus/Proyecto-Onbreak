@@ -1,0 +1,39 @@
+C:\Users\Almendra\source\repos\OnBreak - Proyecto\Vista - OnBreak\bin\Debug\Vista - OnBreak.exe.config
+C:\Users\Almendra\source\repos\OnBreak - Proyecto\Vista - OnBreak\bin\Debug\Vista - OnBreak.exe
+C:\Users\Almendra\source\repos\OnBreak - Proyecto\Vista - OnBreak\bin\Debug\Vista - OnBreak.pdb
+C:\Users\Almendra\source\repos\OnBreak - Proyecto\Vista - OnBreak\obj\Debug\Vista - OnBreak.csprojAssemblyReference.cache
+C:\Users\Almendra\source\repos\OnBreak - Proyecto\Vista - OnBreak\obj\Debug\MainWindow.g.cs
+C:\Users\Almendra\source\repos\OnBreak - Proyecto\Vista - OnBreak\obj\Debug\Registro.g.cs
+C:\Users\Almendra\source\repos\OnBreak - Proyecto\Vista - OnBreak\obj\Debug\App.g.cs
+C:\Users\Almendra\source\repos\OnBreak - Proyecto\Vista - OnBreak\obj\Debug\Vista - OnBreak_MarkupCompile.cache
+C:\Users\Almendra\source\repos\OnBreak - Proyecto\Vista - OnBreak\obj\Debug\Vista - OnBreak_MarkupCompile.lref
+C:\Users\Almendra\source\repos\OnBreak - Proyecto\Vista - OnBreak\obj\Debug\MainWindow.baml
+C:\Users\Almendra\source\repos\OnBreak - Proyecto\Vista - OnBreak\obj\Debug\Registro.baml
+C:\Users\Almendra\source\repos\OnBreak - Proyecto\Vista - OnBreak\obj\Debug\Vista - OnBreak.g.resources
+C:\Users\Almendra\source\repos\OnBreak - Proyecto\Vista - OnBreak\obj\Debug\Vista___OnBreak.Properties.Resources.resources
+C:\Users\Almendra\source\repos\OnBreak - Proyecto\Vista - OnBreak\obj\Debug\Vista - OnBreak.csproj.GenerateResource.cache
+C:\Users\Almendra\source\repos\OnBreak - Proyecto\Vista - OnBreak\obj\Debug\Vista - OnBreak.csproj.CoreCompileInputs.cache
+C:\Users\Almendra\source\repos\OnBreak - Proyecto\Vista - OnBreak\obj\Debug\Vista - OnBreak.exe
+C:\Users\Almendra\source\repos\OnBreak - Proyecto\Vista - OnBreak\obj\Debug\Vista - OnBreak.pdb
+C:\Users\duoc\Downloads\OnBreak - Proyecto\Vista - OnBreak\bin\Debug\Vista - OnBreak.exe.config
+C:\Users\duoc\Downloads\OnBreak - Proyecto\Vista - OnBreak\obj\Debug\Vista - OnBreak.pdb
+C:\Users\duoc\Downloads\OnBreak - Proyecto\Vista - OnBreak\bin\Debug\Vista - OnBreak.exe
+C:\Users\duoc\Downloads\OnBreak - Proyecto\Vista - OnBreak\bin\Debug\Vista - OnBreak.pdb
+C:\Users\duoc\Downloads\OnBreak - Proyecto\Vista - OnBreak\obj\Debug\Vista - OnBreak.csprojResolveAssemblyReference.cache
+C:\Users\duoc\Downloads\OnBreak - Proyecto\Vista - OnBreak\obj\Debug\MainWindow.g.cs
+C:\Users\duoc\Downloads\OnBreak - Proyecto\Vista - OnBreak\obj\Debug\Registro.g.cs
+C:\Users\duoc\Downloads\OnBreak - Proyecto\Vista - OnBreak\obj\Debug\App.g.cs
+C:\Users\duoc\Downloads\OnBreak - Proyecto\Vista - OnBreak\obj\Debug\Vista - OnBreak_MarkupCompile.cache
+C:\Users\duoc\Downloads\OnBreak - Proyecto\Vista - OnBreak\obj\Debug\Vista - OnBreak_MarkupCompile.lref
+C:\Users\duoc\Downloads\OnBreak - Proyecto\Vista - OnBreak\obj\Debug\MainWindow.baml
+C:\Users\duoc\Downloads\OnBreak - Proyecto\Vista - OnBreak\obj\Debug\Registro.baml
+C:\Users\duoc\Downloads\OnBreak - Proyecto\Vista - OnBreak\obj\Debug\Vista - OnBreak.g.resources
+C:\Users\duoc\Downloads\OnBreak - Proyecto\Vista - OnBreak\obj\Debug\Vista___OnBreak.Properties.Resources.resources
+C:\Users\duoc\Downloads\OnBreak - Proyecto\Vista - OnBreak\obj\Debug\Vista - OnBreak.csproj.GenerateResource.Cache
+C:\Users\duoc\Downloads\OnBreak - Proyecto\Vista - OnBreak\obj\Debug\Vista - OnBreak.exe
+C:\Users\duoc\Downloads\OnBreak - Proyecto\Vista - OnBreak\bin\Debug\BibliotecaClase.dll
+C:\Users\duoc\Downloads\OnBreak - Proyecto\Vista - OnBreak\bin\Debug\BibliotecaModelo.dll
+C:\Users\duoc\Downloads\OnBreak - Proyecto\Vista - OnBreak\bin\Debug\BibliotecaClase.pdb
+C:\Users\duoc\Downloads\OnBreak - Proyecto\Vista - OnBreak\bin\Debug\BibliotecaModelo.pdb
+C:\Users\duoc\Desktop\OnBreak - Proyecto\Vista - OnBreak\bin\Debug\Vista - OnBreak.exe.config
+C:\Users\duoc\Desktop\OnBreak - Proyecto\Vista - OnBreak\obj\Debug\Vista - OnBreak.pdb

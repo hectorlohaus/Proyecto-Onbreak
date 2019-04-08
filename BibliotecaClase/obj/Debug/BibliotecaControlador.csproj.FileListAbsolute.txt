@@ -1,0 +1,7 @@
+C:\Users\duoc\Downloads\OnBreak - Proyecto\BibliotecaClase\bin\Debug\BibliotecaClase.dll
+C:\Users\duoc\Downloads\OnBreak - Proyecto\BibliotecaClase\bin\Debug\BibliotecaClase.pdb
+C:\Users\duoc\Downloads\OnBreak - Proyecto\BibliotecaClase\bin\Debug\BibliotecaModelo.dll
+C:\Users\duoc\Downloads\OnBreak - Proyecto\BibliotecaClase\bin\Debug\BibliotecaModelo.pdb
+C:\Users\duoc\Downloads\OnBreak - Proyecto\BibliotecaClase\obj\Debug\BibliotecaControlador.csprojResolveAssemblyReference.cache
+C:\Users\duoc\Downloads\OnBreak - Proyecto\BibliotecaClase\obj\Debug\BibliotecaClase.dll
+C:\Users\duoc\Downloads\OnBreak - Proyecto\BibliotecaClase\obj\Debug\BibliotecaClase.pdb

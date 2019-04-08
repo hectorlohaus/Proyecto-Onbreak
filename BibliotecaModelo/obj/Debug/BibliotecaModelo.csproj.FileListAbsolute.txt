@@ -1,0 +1,5 @@
+C:\Users\duoc\Downloads\OnBreak - Proyecto\BibliotecaModelo\bin\Debug\BibliotecaModelo.dll
+C:\Users\duoc\Downloads\OnBreak - Proyecto\BibliotecaModelo\bin\Debug\BibliotecaModelo.pdb
+C:\Users\duoc\Downloads\OnBreak - Proyecto\BibliotecaModelo\obj\Debug\BibliotecaModelo.csprojResolveAssemblyReference.cache
+C:\Users\duoc\Downloads\OnBreak - Proyecto\BibliotecaModelo\obj\Debug\BibliotecaModelo.dll
+C:\Users\duoc\Downloads\OnBreak - Proyecto\BibliotecaModelo\obj\Debug\BibliotecaModelo.pdb
