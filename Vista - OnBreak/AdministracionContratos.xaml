@@ -7,7 +7,8 @@
         mc:Ignorable="d"
         Title="Administracion De Contratos" Height="317.51" Width="428.405">
     <Grid>
-        <Label x:Name="label" Content="Label" HorizontalAlignment="Left" Margin="34,25,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label" Content="Numero de Contrato" HorizontalAlignment="Left" Margin="34,25,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label1" Content="Rut" HorizontalAlignment="Left" Margin="34,56,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.088,0.573"/>
 
     </Grid>
 </Window>
