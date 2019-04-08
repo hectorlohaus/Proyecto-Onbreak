@@ -32,5 +32,10 @@ namespace Vista___OnBreak
             Registro rg = new Registro();
             rg.Show();
         }
+
+        private void MenuItem_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
